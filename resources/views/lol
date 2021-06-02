@@ -1,0 +1,35 @@
+<script src={{ asset('assets/js/jquery.min.js')}}>
+    //<-- Bootstrap JS -->
+    <script src={{ asset('assets/js/bootstrap.min.js')}}></script> 
+     //<!-- Slick nav JS --> 
+     <script src={{asset('assets/js/jquery.slicknav.min.js')}}></script> 
+     //<!-- Slick JS --> 
+     <script src={{asset('assets/js/slick.min.js')}}></script> 
+     //<!-- owl carousel JS --> 
+     <script src={{asset('assets/js/owl.carousel.min.js')}}></script> 
+     //<!-- Popup JS --> 
+     <script src={{asset('assets/js/jquery.magnific-popup.min.js')}}></script> 
+     //<!-- Counter JS --> 
+     <script src={{asset('assets/js/jquery.counterup.min.js')}}></script> 
+     //<!-- Counterup waypoints JS --> 
+     <script src={{asset('assets/js/waypoints.min.js')}}></script> 
+     //<!-- YTPlayer JS --> 
+     <script src={{asset('assets/js/jquery.mb.YTPlayer.min.js')}}></script> 
+     //<!-- jQuery Easing JS --> 
+     <script src={{asset('assets/js/jquery.easing.1.3.js')}}></script> 
+     //<!-- Gmap JS --> 
+     <script src={{asset('assets/js/gmap3.min.js')}}></script> 
+     //<!-- Google map api --> 
+     <script src={{asset('https://maps.googleapis.com/maps/api/js?key=AIzaSyBnKyOpsNq-vWYtrwayN3BkF3b4k3O9A_A')}}></script> 
+     //<!-- Custom map JS --> 
+     <script src={{asset('assets/js/custom-map.js')}}></script> 
+     //<!-- WOW JS --> 
+     <script src={{asset('assets/js/wow-1.3.0.min.js')}}></script> 
+     //<!-- Switcher JS --> 
+     <script src={{asset('assets/js/switcher.js')}}></script> 
+     //<!-- main JS --> 
+     <script src={{asset('assets/js/main.js')}}></script> 
+     //<!-- Datatable --> 
+     <script type="text/javascript" src={{asset('https://cdn.datatables.net/v/bs4/dt-1.10.21/r-2.2.5/datatables.min.js')}}></script> 
+     //<!-- Slick --> 
+     <script src={{asset('assets/slick/slick.min.js')}}></script>
